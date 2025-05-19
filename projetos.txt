@@ -1,0 +1,27 @@
+projeto 1
+https://github.com/NathanEABev/Calculadora
+https://nathaneabev.github.io/Calculadora/
+
+projeto 2
+https://github.com/NathanEABev/FlashCards
+https://nathaneabev.github.io/FlashCards/
+
+projeto 3
+https://github.com/NathanEABev/Personagem
+https://nathaneabev.github.io/Personagem/
+
+projeto 4
+https://github.com/NathanEABev/escolhas
+https://github.com/NathanEABev/escolhas
+
+projeto 5
+https://github.com/NathanEABev/site-nexus
+https://nathaneabev.github.io/site-nexus/
+
+projeto 6
+https://github.com/NathanEABev/paginaweb
+https://nathaneabev.github.io/paginaweb/
+
+projeto 7
+https://github.com/NathanEABev/siteexemplofront
+https://nathaneabev.github.io/siteexemplofront/
