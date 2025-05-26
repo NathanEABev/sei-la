@@ -59,6 +59,24 @@ h2 {
     .escola, .empresa {
         display: none;
     }
+
+    .cor {
+        background-color: #c00000;
+        border-radius: 10px;
+        padding: 5px 20px;
+        display: inline-block;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .empresa {
+        font-size: 20px;
+        font-weight: 800px;
+    }
+
+    .escola {
+        font-size: 20px;
+    }
 }
 
 @media screen and (min-width: 800px) {
