@@ -16,3 +16,9 @@
     --cor2: #F2FF49;
     --cor2: #AFD2E9;
 }
+
+.foto {
+    max-width: 250px;
+    width: 30vw;
+    border-radius: 50%;
+}
