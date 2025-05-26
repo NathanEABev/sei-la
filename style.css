@@ -4,26 +4,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
 /*font-family: "Poetsen One", sans-serif;*/
 
-* {
-    margin: 0;
-    padding: 0;
-}
-
 :root {
     --font-title: "Poetsen One";
     --font-corpo: "Comic Relief";
     --cor1: #c00000;
     --cor2: #F2FF49;
-    --cor2: #AFD2E9;
+    --cor3: #AFD2E9;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: var(--font-corpo);
+    color: var(--cor2);
+    text-align: center;
+    background-color: white;
 }
 
 .foto {
     max-width: 250px;
     width: 30vw;
     border-radius: 50%;
-}
-
-.container {
-    margin: 0;
-    padding: 0;
 }
