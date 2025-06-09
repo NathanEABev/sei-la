@@ -84,3 +84,26 @@ h2 {
         display: inline;
     }
 }
+
+.titulo {
+    background-color: var(--cor1);
+    padding: 20px;
+    display: inline-block;
+    color: white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+}
+
+.botao {
+    background-color: var(--cor1);
+    color: white;
+    border-radius: 20px;
+    padding: 7px 5px;
+}
+
+.botao:hover {
+    background-color: #df0000;
+}
